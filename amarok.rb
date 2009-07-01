@@ -1,0 +1,3 @@
+class Amarok
+  
+end
