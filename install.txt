@@ -1,0 +1,10 @@
+apt-get install kdelibs4c2a (dcop)
+Set up 'dcopserver' to start on startup
+Set up amarok to start on startup in the session
+Set up autologin to gnome session
+
+irb
+rubygems
+
+gem install extlib
+apt-get install git-core
